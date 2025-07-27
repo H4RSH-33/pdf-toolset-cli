@@ -33,19 +33,6 @@ This toolset provides 4 useful operations:
 ```bash
 pip install PyPDF2 
 ```
-CLI interface-
-
-🛠️  WELCOME TO PDF TOOLSET (Made with Python)  🛠️
-==================================================
-Choose one of the following options:
-
-1️⃣  Merge multiple PDFs
-2️⃣  View PDF Metadata
-3️⃣  Compress a PDF
-4️⃣  Add blank pages at start/end
-Enter your input here:
-==================================================
-
 🎯 Learning Goals & Highlights
 This mini project was my first deep dive into using Python libraries for real-world use cases. Key takeaways:
 
